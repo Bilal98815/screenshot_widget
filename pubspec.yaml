@@ -1,7 +1,7 @@
 name: screenshot_widget
-description: "A new Flutter project."
+description: "A Flutter package for taking screenshot of a widget."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Bilal98815/screenshot_widget
 
 environment:
   sdk: ^3.5.4
