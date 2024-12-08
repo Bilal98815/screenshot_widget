@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.2] - YYYY-MM-DD
+### Added
+- Declared platforms in pubspec
+
 ## [0.0.1] - YYYY-MM-DD
 ### Added
 - Initial release of the `screenshot_widget` package.

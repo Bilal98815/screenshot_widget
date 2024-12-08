@@ -1,6 +1,6 @@
 name: screenshot_widget
 description: "A Flutter package for taking screenshot of a widget."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Bilal98815/screenshot_widget
 
 environment:
@@ -16,6 +16,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
+
+platforms:
+  android:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
