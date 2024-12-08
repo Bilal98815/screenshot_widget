@@ -18,7 +18,7 @@ To use this package, add the following dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  screenshot: ^1.0.0
+  screenshot_widget: ^1.0.0
 ```
 
 - Create instance of ScreenshotController and provide GlobalKey to it
